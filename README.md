@@ -5,7 +5,7 @@ The vast majority of computer and communication systems use passwords in order t
 
 ![CDAS Abstract](images/CDAS_abstract.png?raw=true "CDAS abstract")
 
-![CDAS samples](images/samples_passwords.png?raw=true "Sample Passwords")
+![CDAS samples](images/sample_passwords.png?raw=true "Sample Passwords")
 
 ![CDAS award](images/CDAS_award.jpg?raw=true "Best Paper Award")
 
